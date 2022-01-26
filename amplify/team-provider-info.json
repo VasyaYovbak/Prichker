@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-prichker-dev-140509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::073598378673:role/amplify-prichker-dev-140509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::073598378673:role/amplify-prichker-dev-140509-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-prichker-dev-140509-deployment",
+      "UnauthRoleName": "amplify-prichker-dev-140509-unauthRole",
+      "StackName": "amplify-prichker-dev-140509",
+      "StackId": "arn:aws:cloudformation:eu-central-1:073598378673:stack/amplify-prichker-dev-140509/3881caa0-7ea0-11ec-b956-02aba843bb70",
+      "AmplifyAppId": "d3lickxxk64odx"
+    },
+    "categories": {
+      "function": {
+        "prichker98d1e5ac": {
+          "deploymentBucketName": "amplify-prichker-dev-140509-deployment",
+          "s3Key": "amplify-builds/prichker98d1e5ac-6f4b6d6a32794c6a6953-build.zip"
+        }
+      }
+    }
+  }
+}
